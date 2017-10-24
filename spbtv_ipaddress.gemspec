@@ -5,8 +5,8 @@
 # stub: ipaddress 0.8.3 ruby lib
 
 Gem::Specification.new do |s|
-  s.name = "ipaddress"
-  s.version = "0.8.3"
+  s.name = "spbtv_ipaddress"
+  s.version = '0.8.3.1'
 
   s.required_rubygems_version = Gem::Requirement.new(">= 0") if s.respond_to? :required_rubygems_version=
   s.require_paths = ["lib"]
@@ -30,7 +30,7 @@ Gem::Specification.new do |s|
     "README.rdoc",
     "Rakefile",
     "VERSION",
-    "ipaddress.gemspec",
+    "spbtv_ipaddress.gemspec",
     "lib/ipaddress.rb",
     "lib/ipaddress/ipv4.rb",
     "lib/ipaddress/ipv6.rb",
